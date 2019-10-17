@@ -151,7 +151,7 @@ class Worker:
                     if done:
                         v_target = 0
                     else:
-                        v_target = self.ac.get_value(state)
+                        v_target = self.ac.get_value(next_state)
                     buffer_v_target = []
                     for r in buffer_r[::-1]:
                         v_target = r + gamma * v_target
