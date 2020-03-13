@@ -1,7 +1,7 @@
 # AdvancedDeepLearning
 This repository is created for the Deep Learning course which has been held at Khaje Nasir Toosi University in 2019 summer.
 
-You can find the vidoes of the course in the following youtube channel:
+You can find the videos of the course in the following youtube channel:
 
 https://www.youtube.com/watch?v=AChPRCwZW4s&list=PL2g_5adpoaeL2bWnE5K-ctgjCn1HbmHGv
 
