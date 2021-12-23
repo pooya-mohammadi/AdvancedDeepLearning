@@ -13,4 +13,4 @@ telegram id: @Pooya_Mohammadi_K
 
 LinkedIn: https://linkedin.com/in/pooya-mohammadi
 
-email: pooya209@ymail.com
+email: pooyamohammadikazaj@gmail.com
